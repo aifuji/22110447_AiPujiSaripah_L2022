@@ -22,13 +22,10 @@ Project ini adalah aplikasi pemesanan tiket film berbasis JSP. Pengguna dapat me
 2. **Form Pemesanan Pertama (`pesan.jsp`)**  
    ![Pesan](screenshots/pesan.png)
 
-3. **Form Pemesanan Lanjutan (`pesan2.jsp`)**  
-   ![Pesan2](screenshots/pesan2.png)
-
-4. **Halaman Cetak Struk (`cetakstruk.jsp`)**  
+3. **Halaman Cetak Struk (`cetakstruk.jsp`)**  
    ![Cetak Struk](screenshots/cetakstruk.png)
 
-5. **Hasil Akhir Struk Pemesanan (`struk.jsp`)**  
+4. **Hasil Akhir Struk Pemesanan (`struk.jsp`)**  
    ![Struk](screenshots/struk.png)
 
 > Semua screenshot disimpan di dalam folder `screenshots/`.
